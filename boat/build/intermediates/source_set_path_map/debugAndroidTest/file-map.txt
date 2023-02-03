@@ -1,0 +1,8 @@
+cosine.boat.test.boat-androidTest-0 D:\Boat_H2O2\boat\build\generated\res\resValues\androidTest\debug
+cosine.boat.test.boat-androidTest-1 D:\Boat_H2O2\boat\build\generated\res\rs\androidTest\debug
+cosine.boat.test.boat-mergeDebugAndroidTestResources-2 D:\Boat_H2O2\boat\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+cosine.boat.test.boat-mergeDebugAndroidTestResources-3 D:\Boat_H2O2\boat\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+cosine.boat.test.boat-merged_res-4 D:\Boat_H2O2\boat\build\intermediates\merged_res\debugAndroidTest
+cosine.boat.test.boat-packaged_res-5 D:\Boat_H2O2\boat\build\intermediates\packaged_res\debug
+cosine.boat.test.boat-androidTest-6 D:\Boat_H2O2\boat\src\androidTest\res
+cosine.boat.test.boat-androidTestDebug-7 D:\Boat_H2O2\boat\src\androidTestDebug\res

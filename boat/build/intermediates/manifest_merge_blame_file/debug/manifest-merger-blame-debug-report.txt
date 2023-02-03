@@ -1,0 +1,31 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="cosine.boat" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->D:\Boat_H2O2\boat\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="21" />
+7-->D:\Boat_H2O2\boat\src\main\AndroidManifest.xml
+8
+9    <uses-feature
+9-->D:\Boat_H2O2\boat\src\main\AndroidManifest.xml:5:5-7:35
+10        android:glEsVersion="0x00020000"
+10-->D:\Boat_H2O2\boat\src\main\AndroidManifest.xml:6:9-41
+11        android:required="true" />
+11-->D:\Boat_H2O2\boat\src\main\AndroidManifest.xml:7:9-32
+12
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->D:\Boat_H2O2\boat\src\main\AndroidManifest.xml:8:5-9:68
+13-->D:\Boat_H2O2\boat\src\main\AndroidManifest.xml:9:9-65
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->D:\Boat_H2O2\boat\src\main\AndroidManifest.xml:10:5-11:54
+14-->D:\Boat_H2O2\boat\src\main\AndroidManifest.xml:11:9-51
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->D:\Boat_H2O2\boat\src\main\AndroidManifest.xml:12:5-13:66
+15-->D:\Boat_H2O2\boat\src\main\AndroidManifest.xml:13:9-63
+16    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+16-->D:\Boat_H2O2\boat\src\main\AndroidManifest.xml:14:5-15:64
+16-->D:\Boat_H2O2\boat\src\main\AndroidManifest.xml:15:9-61
+17
+18</manifest>

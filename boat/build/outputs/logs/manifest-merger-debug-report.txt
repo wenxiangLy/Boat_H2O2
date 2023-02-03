@@ -1,0 +1,47 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Boat_H2O2\boat\src\main\AndroidManifest.xml:2:1-16:12
+INJECTED from D:\Boat_H2O2\boat\src\main\AndroidManifest.xml:2:1-16:12
+INJECTED from D:\Boat_H2O2\boat\src\main\AndroidManifest.xml:2:1-16:12
+	package
+		ADDED from D:\Boat_H2O2\boat\src\main\AndroidManifest.xml:4:5-26
+		INJECTED from D:\Boat_H2O2\boat\src\main\AndroidManifest.xml
+		INJECTED from D:\Boat_H2O2\boat\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Boat_H2O2\boat\src\main\AndroidManifest.xml:3:5-63
+uses-feature#0x00020000
+ADDED from D:\Boat_H2O2\boat\src\main\AndroidManifest.xml:5:5-7:35
+	android:glEsVersion
+		ADDED from D:\Boat_H2O2\boat\src\main\AndroidManifest.xml:6:9-41
+	android:required
+		ADDED from D:\Boat_H2O2\boat\src\main\AndroidManifest.xml:7:9-32
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Boat_H2O2\boat\src\main\AndroidManifest.xml:8:5-9:68
+	android:name
+		ADDED from D:\Boat_H2O2\boat\src\main\AndroidManifest.xml:9:9-65
+uses-permission#android.permission.INTERNET
+ADDED from D:\Boat_H2O2\boat\src\main\AndroidManifest.xml:10:5-11:54
+	android:name
+		ADDED from D:\Boat_H2O2\boat\src\main\AndroidManifest.xml:11:9-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Boat_H2O2\boat\src\main\AndroidManifest.xml:12:5-13:66
+	android:name
+		ADDED from D:\Boat_H2O2\boat\src\main\AndroidManifest.xml:13:9-63
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from D:\Boat_H2O2\boat\src\main\AndroidManifest.xml:14:5-15:64
+	android:name
+		ADDED from D:\Boat_H2O2\boat\src\main\AndroidManifest.xml:15:9-61
+uses-sdk
+INJECTED from D:\Boat_H2O2\boat\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Boat_H2O2\boat\src\main\AndroidManifest.xml
+INJECTED from D:\Boat_H2O2\boat\src\main\AndroidManifest.xml
+INJECTED from D:\Boat_H2O2\boat\src\main\AndroidManifest.xml
+INJECTED from D:\Boat_H2O2\boat\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Boat_H2O2\boat\src\main\AndroidManifest.xml
+		ADDED from D:\Boat_H2O2\boat\src\main\AndroidManifest.xml
+		INJECTED from D:\Boat_H2O2\boat\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Boat_H2O2\boat\src\main\AndroidManifest.xml
+		ADDED from D:\Boat_H2O2\boat\src\main\AndroidManifest.xml
+		INJECTED from D:\Boat_H2O2\boat\src\main\AndroidManifest.xml
