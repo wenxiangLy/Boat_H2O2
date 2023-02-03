@@ -1,0 +1,35 @@
+{
+  "buildFiles": [
+    "C:\\Program Files\\JetBrains\\project\\Boat_H2O2\\boat\\src\\main\\jni\\boat\\CMakeLists.txt",
+    "C:\\Program Files\\JetBrains\\project\\Boat_H2O2\\boat\\src\\main\\jni\\CMakeLists.txt",
+    "C:\\Program Files\\JetBrains\\project\\Boat_H2O2\\boat\\src\\main\\jni\\loadme\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\wenxiangL\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Program Files\\JetBrains\\project\\Boat_H2O2\\boat\\.cxx\\Debug\\5793s2j6\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\wenxiangL\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Program Files\\JetBrains\\project\\Boat_H2O2\\boat\\.cxx\\Debug\\5793s2j6\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "loadme::@dd741a0f2f36159b1b97": {
+      "artifactName": "loadme",
+      "abi": "arm64-v8a",
+      "output": "C:\\Program Files\\JetBrains\\project\\Boat_H2O2\\boat\\build\\intermediates\\cxx\\Debug\\5793s2j6\\obj\\arm64-v8a\\libloadme.so",
+      "runtimeFiles": []
+    },
+    "boat::@057c1fe1dc6fc82b8a05": {
+      "artifactName": "boat",
+      "abi": "arm64-v8a",
+      "output": "C:\\Program Files\\JetBrains\\project\\Boat_H2O2\\boat\\build\\intermediates\\cxx\\Debug\\5793s2j6\\obj\\arm64-v8a\\libboat.so",
+      "runtimeFiles": []
+    }
+  }
+}
