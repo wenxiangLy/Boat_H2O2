@@ -1,0 +1,3 @@
+C:\Program Files\github\Boat_H2O2\boat\src\main\jni\boat\CMakeLists.txt
+C:\Program Files\github\Boat_H2O2\boat\src\main\jni\CMakeLists.txt
+C:\Program Files\github\Boat_H2O2\boat\src\main\jni\loadme\CMakeLists.txt
